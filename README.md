@@ -45,7 +45,7 @@ The following tools have been used:
 * **ai2html** : for converting the map into HTML and the handle it with D3 
 
 **Website**
-* Soma's templates
+* [Soma's templates](https://jsoma.github.io/page-templates/https://jsoma.github.io/page-templates/)
 
 ## Files index
 
