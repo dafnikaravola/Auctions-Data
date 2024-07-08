@@ -1,4 +1,5 @@
 # Inside Eurobank's Pillar Portfolio: Are auctions disproportionately affecting Athens' poorer?
+Find the website [here](https://dafnikaravola.github.io/auctions/)
 This is my first complete project for the LEDE Program 2024, at Columbia Journalism School.
 
 The project uses a dataset created by the Reporters United team (which I am part of) 
