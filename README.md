@@ -34,16 +34,15 @@ The following tools have been used:
 **Data Analysis**
 
 * **Pandas Library and Jupyter Notebook:** Were used to calculate the concentration of property types for all of Greece and the region of Attica, to calculate the distribution with each of Attica's municipalities, to correlate the surface area range with the construction years range, to export database that would be imported into QGIS in the next step.
-*see files: "JupNotebook_Auctions Dataset.ipynb", "Data_Attiki.csv", "Data_Attiki_Katoikia.csv", "Data_Attiki_Freq_Types.csv*
+*see files: "JupNotebook_Auctions Dataset.ipynb", "Data_Attiki.csv", "Data_Attiki_Katoikia.csv" *
 
-* **QGIS**: Was used to further analyse the datasets based on Attica's municipalities. To do that, I matched the existing municipal names with another shapefile polygon layer of Attica's municipalities.
-* Then I used QGIS functions to calculate and visualise the number of auctions and the average auction price per municipality, resulting in two choropleth maps.
+* **QGIS**: Was used to further analyse the datasets based on Attica's municipalities. To do that, I matched the existing municipal names with another shapefile polygon layer of Attica's municipalities.  Then I used QGIS functions to calculate and visualise the number of auctions and the average auction price per municipality, resulting in two choropleth maps and the  Data_Attiki_QGIS.csv file.
 
 **Visualisation**
 * **QGIS** : for the map bases
 * **Flourish** : for the charts bases
 * **Illustrator** : for processing maps and charts
-* **ai2html** : for converting the map into html and the handle it with D3 
+* **ai2html** : for converting the map into HTML and the handle it with D3 
 
 **Website**
 * Soma's templates
