@@ -33,8 +33,7 @@ The following tools have been used:
 
 **Data Analysis**
 
-* **Pandas Library and Jupyter Notebook:** Were used to calculate the concentration of property types for all of Greece and the region of Attica, to calculate the distribution with each of Attica's municipalities,
-* to correlate the surface area range with the construction years range, to export database that would be imported into QGIS in the next step.
+* **Pandas Library and Jupyter Notebook:** Were used to calculate the concentration of property types for all of Greece and the region of Attica, to calculate the distribution with each of Attica's municipalities, to correlate the surface area range with the construction years range, to export database that would be imported into QGIS in the next step.
 *see files: "JupNotebook_Auctions Dataset.ipynb", "Data_Attiki.csv", "Data_Attiki_Katoikia.csv", "Data_Attiki_Freq_Types.csv*
 
 * **QGIS**: Was used to further analyse the datasets based on Attica's municipalities. To do that, I matched the existing municipal names with another shapefile polygon layer of Attica's municipalities.
